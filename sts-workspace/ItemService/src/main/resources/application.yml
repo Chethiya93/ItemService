@@ -3,7 +3,7 @@ spring:
   datasource: 
     url: jdbc:mysql://localhost:3306/inventrydb?createDatabaseIfNotExist=true
     username: root
-    password: mmSSnn
+    password: 
     driverClassName: com.mysql.cj.jdbc.Driver
   
   jpa:
