@@ -1,16 +1,10 @@
-
 spring:
   datasource: 
     url: jdbc:mysql://localhost:3306/inventrydb?createDatabaseIfNotExist=true
     username: root
-    password: 
+    password: 1qaz2wsx@
     driverClassName: com.mysql.cj.jdbc.Driver
-  
   jpa:
     hibernate:
       ddl-auto: create
     show-sql: true
- 
-      
-  
- 
